@@ -30,19 +30,21 @@ An online platform for purchasing fresh vegetables. This project offers a seamle
      
 <img width="1914" height="907" alt="Screenshot 2025-08-04 193329" src="https://github.com/user-attachments/assets/529152e2-8ad9-4fd0-838d-b3008879478a" />
 
+---
      
 ### 🔐 Register & Login Page  
-<img src="https://github.com/user-attachments/assets/5c73dd52-72a7-4df7-9d6a-6b7993e27042" alt="Register & Login Page" width="250"/>
+
+<img width="687" height="700" alt="Screenshot 2025-08-04 194753" src="https://github.com/user-attachments/assets/ac47ecb1-3384-45f6-9074-dbf30ab03b5d" />
 
 ---
 
 ### 🤖 Chatbot Support  
-<img src="https://github.com/user-attachments/assets/0003fa65-88dc-4753-9460-78295da350fc" alt="Chatbot Support" width="250"/>
+<img width="1232" height="802" alt="Screenshot 2025-08-04 194825" src="https://github.com/user-attachments/assets/348d44c9-8ce4-4033-9530-722747431f76" />
 
 ---
 
 ### 🥬 Vegetable List Page  
-<img src="https://github.com/user-attachments/assets/fd0c8b0a-eb5d-4074-bbe6-1b8ef12154dd" alt="Vegetable List Page" width="250"/>
+<img width="1901" height="901" alt="Screenshot 2025-08-04 194905" src="https://github.com/user-attachments/assets/0b68aa93-a211-4151-9bf4-456749ff78a4" />
 
 ---
 
