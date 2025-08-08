@@ -49,7 +49,8 @@ An online platform for purchasing fresh vegetables. This project offers a seamle
 ---
 
 ### 💳 Payment Page  
-<img src="https://github.com/user-attachments/assets/e517a04b-2add-471d-8f31-1c212860e484" alt="Payment Page" width="250"/>
+
+<img width="868" height="742" alt="Screenshot 2025-08-04 194928" src="https://github.com/user-attachments/assets/e2c3b2c2-d071-400b-b34c-4b692f8fdfb0" />
 
 ---
 
