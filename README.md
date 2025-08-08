@@ -27,9 +27,9 @@ An online platform for purchasing fresh vegetables. This project offers a seamle
 ## 📸 Screenshots
 
 ### 🏠 Home Page  
-      ![Home Page](https://github.com/user-attachments/assets/11c7924a-263a-4692-a5f5-d465afddadcf)
----
+     <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/path/to/image.png" alt="Home Page" width="250"/>
 
+     
 ### 🔐 Register & Login Page  
 <img src="https://github.com/user-attachments/assets/5c73dd52-72a7-4df7-9d6a-6b7993e27042" alt="Register & Login Page" width="250"/>
 
